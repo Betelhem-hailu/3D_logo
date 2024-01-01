@@ -1,0 +1,11 @@
+Model Information:
+* title:	Logo Batman
+* source:	https://sketchfab.com/3d-models/logo-batman-f376bd06d35a43e9b09c61e3a1c39d8c
+* author:	pasqual (https://sketchfab.com/pasqual)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Logo Batman" (https://sketchfab.com/3d-models/logo-batman-f376bd06d35a43e9b09c61e3a1c39d8c) by pasqual (https://sketchfab.com/pasqual) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
